@@ -25,5 +25,5 @@ Agradeço à [Programaria](https://www.programaria.org/sobre-nos/) por fornecer 
 ### Demonstração
 Confira o site clicando [aqui](https://mapgomes.github.io/projeto-ada/).
 
-![Demonstração do Projeto Finalizado](https://github.com/mapgomes/projeto-ada/blob/main/img/site-ada.gif)
+![Demonstração do Projeto Finalizado](https://github.com/mapgomes/projeto-ada/blob/main/img/site-ada.png)
 
